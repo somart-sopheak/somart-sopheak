@@ -56,6 +56,14 @@
 
 ---
 
+## 👨‍💻 Work Experience  
+**Intern - Vectorasoft (April 2 - July 7, 2025)**  
+- Developed front-end components using Next.js and Vue.js  
+- Designed UX/UI for web applications, improving usability and visual appeal  
+- Collaborated with developers to enhance performance  
+
+---
+
 ## 📜 Certificates  
 - 📘 App Development (Flutter) – Online Course  
 - 🖥️ Back-End Development (Laravel) – Online Course  
@@ -76,11 +84,6 @@
 
 ---
 
-## 👨‍💻 Work Experience  
-**Intern - Vectorasoft (April 2 - July 7, 2025)**  
-- Developed front-end components using Next.js and Vue.js  
-- Designed UX/UI for web applications, improving usability and visual appeal  
-- Collaborated with developers to enhance performance  
 
 ## 📊 GitHub Stats  
 
