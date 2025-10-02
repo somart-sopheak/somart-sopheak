@@ -82,22 +82,6 @@
 - Designed UX/UI for web applications, improving usability and visual appeal  
 - Collaborated with developers to enhance performance  
 
----
-
-## 🌐 Languages  
-- 🇰🇭 **Khmer (Native)**  
-- 🇺🇸 **English (Proficient)**  
-
----
-
-## 🤝 Reference  
-**Dr. Sek Socheat**  
-Lecturer of Norton University  
-📧 [socheat.sek@gmail.com](mailto:socheat.sek@gmail.com)  
-📞 (+855) 17 879 967  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
